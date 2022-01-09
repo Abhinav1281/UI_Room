@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To_Do</string>
+    <string name="delete_all_items">Delete All Items</string>
+    <string name="save">Save Items</string>
+    <string name="tasks_for_today">Tasks</string>
+    <string name="day_streak">: day streak</string>
+</resources>
